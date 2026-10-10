@@ -24,7 +24,7 @@ git clone https://github.com/codexravi70/c-text-repeater.git
 
 cd c-text-repeater
 
-gcc main.c -o text_repeater
+gcc c-text-repeater.git.c -o text_repeater
 
 ./text_repeater
 
