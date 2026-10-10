@@ -1,8 +1,8 @@
-🔁 C Text Repeater
+## 🔁 C Text Repeater
 
 A beginner-friendly C programming project that takes text input from the user and prints it multiple times using a "for" loop.
 
-📌 Features
+# 📌 Features
 
 - Takes text input from the user.
 - Supports text containing spaces.
@@ -10,7 +10,7 @@ A beginner-friendly C programming project that takes text input from the user an
 - Uses a "for" loop to print the text repeatedly.
 - Displays each repetition with a serial number.
 
-🛠️ Concepts Used
+# 🛠️ Concepts Used
 
 - "printf()" — Displaying output.
 - "scanf()" — Taking user input.
@@ -18,36 +18,9 @@ A beginner-friendly C programming project that takes text input from the user an
 - "for" loop — Repeating statements.
 - Variables and format specifiers.
 
-💻 Source Code
+# 1. Clone the Repository
 
-#include <stdio.h>
-
-int main()
-{
-    int j;
-    char k[100];
-
-    printf("What do you want to write?\n");
-    scanf(" %99[^\n]", k);
-
-    printf("How many times do you want to write?\n");
-    scanf("%d", &j);
-
-    for (int i = 1; i <= j; i++)
-    {
-        printf("%d. %s\n", i, k);
-    }
-
-    return 0;
-}
-
-▶️ How to Run
-
-1. Clone the Repository
-
-Replace "YOUR-USERNAME" with your GitHub username.
-
-git clone https://github.com/YOUR-USERNAME/c-text-repeater.git
+git clone https://github.com/codexravi70/c-text-repeater.git
 
 2. Open the Project Folder
 
@@ -63,7 +36,7 @@ Linux / Termux:
 
 ./text_repeater
 
-📷 Example Output
+# 📷 Example Output
 
 What do you want to write?
 Hello World
@@ -75,14 +48,14 @@ How many times do you want to write?
 2. Hello World
 3. Hello World
 
-🎯 Learning Purpose
+# 🎯 Learning Purpose
 
 This project was created to practice basic C programming concepts, including user input, character arrays, format specifiers, and "for" loops.
 
-👨‍💻 Author
+# 👨‍💻 Author
 
 Ravi Kumar
 
-📜 License
+# 📜 License
 
 Free to use for learning and educational purposes.
