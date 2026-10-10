@@ -21,8 +21,11 @@ A beginner-friendly C programming project that takes text input from the user an
 # 1. Clone the Repository
 
 git clone https://github.com/codexravi70/c-text-repeater.git
+
 cd c-text-repeater
+
 gcc main.c -o text_repeater
+
 ./text_repeater
 
 # 📷 Example Output
@@ -33,9 +36,9 @@ Hello World
 How many times do you want to write?
 3
 
-1. Hello World
-2. Hello World
-3. Hello World
+Hello World
+Hello World
+Hello World
 
 # 🎯 Learning Purpose
 
