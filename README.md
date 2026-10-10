@@ -20,9 +20,9 @@ A beginner-friendly C programming project that takes text input from the user an
 
 # 1. Clone the Repository
 
-git clone https://github.com/codexravi70/c-text-repeater.git
+git clone https://github.com/codexravi70/C-Text-Repeater.git
 
-cd c-text-repeater
+cd C-Text-Repeater
 
 gcc C-Text-Repeater.c -o text_repeater
 
