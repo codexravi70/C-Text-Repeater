@@ -24,7 +24,7 @@ git clone https://github.com/codexravi70/c-text-repeater.git
 
 2. Open the Project Folder
 
-cd c-text-repeater
+```bash cd c-text-repeater```
 
 3. Compile the Program
 
