@@ -20,21 +20,10 @@ A beginner-friendly C programming project that takes text input from the user an
 
 # 1. Clone the Repository
 
-git clone https://github.com/codexravi70/c-text-repeater.git
-
-2. Open the Project Folder
-
-```bash cd c-text-repeater```
-
-3. Compile the Program
-
+```git clone https://github.com/codexravi70/c-text-repeater.git
+cd c-text-repeater
 gcc main.c -o text_repeater
-
-4. Run the Program
-
-Linux / Termux:
-
-./text_repeater
+./text_repeater```
 
 # 📷 Example Output
 
